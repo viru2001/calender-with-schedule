@@ -1,0 +1,24 @@
+
+   .foo {
+    width: 20px;
+    height: 20px;
+    margin: 1.5vw;
+    border: 1px solid rgba(0, 0, 0, .2);
+  }
+  
+  .yellow {
+    background: #fce883;
+  }
+  
+  .red {
+    background: #ff9185;
+  }
+  
+  .green {
+    background: #70db7b;
+  }
+  .events-info{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+  }

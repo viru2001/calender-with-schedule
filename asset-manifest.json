@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/calender-with-schedule/static/css/main.091e48df.chunk.css",
+    "main.js": "/calender-with-schedule/static/js/main.3ff35e50.chunk.js",
+    "main.js.map": "/calender-with-schedule/static/js/main.3ff35e50.chunk.js.map",
+    "runtime-main.js": "/calender-with-schedule/static/js/runtime-main.23e9d478.js",
+    "runtime-main.js.map": "/calender-with-schedule/static/js/runtime-main.23e9d478.js.map",
+    "static/css/2.59fb095d.chunk.css": "/calender-with-schedule/static/css/2.59fb095d.chunk.css",
+    "static/js/2.121e3d67.chunk.js": "/calender-with-schedule/static/js/2.121e3d67.chunk.js",
+    "static/js/2.121e3d67.chunk.js.map": "/calender-with-schedule/static/js/2.121e3d67.chunk.js.map",
+    "index.html": "/calender-with-schedule/index.html",
+    "static/css/2.59fb095d.chunk.css.map": "/calender-with-schedule/static/css/2.59fb095d.chunk.css.map",
+    "static/css/main.091e48df.chunk.css.map": "/calender-with-schedule/static/css/main.091e48df.chunk.css.map",
+    "static/js/2.121e3d67.chunk.js.LICENSE.txt": "/calender-with-schedule/static/js/2.121e3d67.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.23e9d478.js",
+    "static/css/2.59fb095d.chunk.css",
+    "static/js/2.121e3d67.chunk.js",
+    "static/css/main.091e48df.chunk.css",
+    "static/js/main.3ff35e50.chunk.js"
+  ]
+}
